@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/agentra-types",
+  "packageVersion": "0.1.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/agentra-types",
+  "usageRepository": "https://github.com/x12i-sdk/agentra-types",
+  "sourceRepository": "https://github.com/x12i/agentra",
+  "sourceCommit": "772e50e64925e6359e42172d4dcf11d4aa795763",
+  "sourcePackageDirectory": "packages/types",
+  "example": {
+    "title": "Type and summarize application analytics events",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validationScope": "consumer-typecheck-and-local-fixture",
+    "typedSource": "src/consumer.ts",
+    "validatedAt": "2026-10-24T13:57:21.049950+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "10ff761d653ba9a52b44e46456caa5abaca2d662c8be02bec6bfba68cf390406",
+    "manifestSha256": "1a9783e515ad6bfb9aba901f0e4db441e655a4f1342bc4121f7ef3032ba73e12"
+  },
+  "validationFiles": {
+    "src/consumer.ts": "d20c0a281d87e0c75b7828d0bb6c6c3d9e14a33cd1cdbd1fa786a57d0b5b5a4e",
+    "src/index.mjs": "10ff761d653ba9a52b44e46456caa5abaca2d662c8be02bec6bfba68cf390406"
+  }
+}
